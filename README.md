@@ -1,2 +1,3 @@
 # ATM-Machine
-This is DSA Project for Withdrawing, deposit and checking balance.   Language used JAVA.    Utilized Oop's concept.
+create an ATM program for representing ATM transection. In the ATM program, the user has to select an option from the options displayed on the screen. The options are related to withdraw the money, deposit the money, check the balance, and exit.
+Language used --JAVA;
